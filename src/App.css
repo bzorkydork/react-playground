@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  margin: 40px;
+  min-height: calc(100vh - 80px);
+}
+
+.left-one {
+  background-color: darkslategray;
+  color: azure;
+}
+
+.right-one {
+  background-color: wheat;
+  color: firebrick;
+}
